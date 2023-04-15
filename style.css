@@ -1,6 +1,6 @@
 .l-wrapper_01 {
     margin: 1rem auto;
-    width: 95%;
+    width: 60%;
   }
   
   .l-wrapper_01:hover {
@@ -28,6 +28,7 @@
     margin-bottom: 0.6rem;
     font-weight: bold;
     text-decoration: none;
+    text-align: center
   }
   
   .card__thumbnail_01 {
@@ -47,10 +48,11 @@
     font-size: .8rem;
     text-align:center;
     text-decoration: none;
-      padding-bottom: 0;
+    padding-bottom: 0;
   }
   
   .card__text2_01 {
+    text-align: center
     font-size: .8rem;
     margin-top: 0;
     margin-bottom: 2rem;
